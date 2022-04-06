@@ -1,6 +1,7 @@
 
 <h2> About Me </h2>
-👋 Hi, I’m David Gutierrez
+👋 Hi, I’m David Gutierrez 
+ <p>A recent undergrad graduate from UC Riverside.  </p>
 
 <h2> Languages </h2>
 <table>
@@ -16,8 +17,7 @@
   </td>
   <tr>
   <td> 
-     <img height=65px src "https://icons8.com/icon/40670/c-programming">
-      
+    <img height=65px src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   </td>
   <td> 
     5
@@ -29,6 +29,7 @@
 </table>
 
 <h2> Projects </h2>
+
 <h2> Contact </h2>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
