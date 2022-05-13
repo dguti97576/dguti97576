@@ -27,6 +27,7 @@
 <h2> Contact </h2>
 LinkedIn : 
 Handshake :
+<tr>
 Email : dgutierrez97576@gmail.com
 
 <!---
