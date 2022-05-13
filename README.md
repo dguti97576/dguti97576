@@ -27,8 +27,7 @@
 <h2> Contact </h2>
 LinkedIn : 
 Handshake :
-<tr>
-Email : dgutierrez97576@gmail.com
+<p> Email : dgutierrez97576@gmail.com </p>
 
 <!---
 dguti97576/dguti97576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
