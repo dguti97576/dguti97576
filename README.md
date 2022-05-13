@@ -25,10 +25,9 @@
 <h2> Projects </h2>
 
 <h2> Contact </h2>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+LinkedIn : 
+Handshake :
+Email : dgutierrez97576@gmail.com
 
 <!---
 dguti97576/dguti97576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
