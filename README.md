@@ -15,7 +15,6 @@
   <td> 
     <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
   </td>
-  <tr>
   <td> 
     <img height=65px src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   </td>
