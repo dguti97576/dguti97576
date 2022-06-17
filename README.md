@@ -25,7 +25,7 @@
 <h2> Projects </h2>
 
 <h2> Contact </h2>
-[LinkedIn](https://www.linkedin.com/in/david-gutierrez-g/)
+LinkedIn:[this link](https://www.linkedin.com/in/david-gutierrez-g/)
 Handshake :
 <p> Email : dgutierrez97576@gmail.com </p>
 
