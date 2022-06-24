@@ -23,7 +23,7 @@
 </table>
 
 <h2> Projects </h2>
-<p> <a href = "https://github.com/dguti97576/DHCP/">
+<p> <a href = "https://github.com/dguti97576/DHCP/" target="_blank" rel="noopener noreferrer">
 Dynamic Host Configuration Prorocol Server
 </a></p>
 <h2> Contact </h2>
