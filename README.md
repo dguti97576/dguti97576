@@ -23,11 +23,15 @@
 </table>
 
 <h2> Projects </h2>
-<p> <a href = "https://github.com/dguti97576/DHCP/" target="_blank" >
+
+ 
+<p> <a href = "https://github.com/dguti97576/DHCP/" >
 Dynamic Host Configuration Prorocol Server
 </a></p>
+
+
 <h2> Contact </h2>
-<p><a href = "https://www.linkedin.com/in/david-gutierrez-g/" target="_blank">
+<p><a href = "https://www.linkedin.com/in/david-gutierrez-g/">
  LinkedIn
  </a></p>
 <p> Email : dgutierrez97576@gmail.com </p>
