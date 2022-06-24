@@ -29,6 +29,18 @@
 Dynamic Host Configuration Prorocol Server
 </a></p>
 
+<p> <a href = "https://github.com/dguti97576/Mechanic-Workshop-Database" >
+Mechanic Workshop Database
+</a></p>
+
+<!-- <p> <a href = "https://github.com/dguti97576/Complier_Design" >
+Complier Design
+</a></p> -->
+
+<h2>Interest and Working Projects</h2>
+<p> <a href = "https://github.com/dguti97576/MLOps" >
+Machine Learning Operations
+</a></p>
 
 <h2> Contact </h2>
 <p><a href = "https://www.linkedin.com/in/david-gutierrez-g/">
