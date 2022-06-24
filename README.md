@@ -27,7 +27,7 @@
 Dynamic Host Configuration Prorocol Server
 </a></p>
 <h2> Contact </h2>
-<p><a href = https://www.linkedin.com/in/david-gutierrez-g/>
+<p><a href = "https://www.linkedin.com/in/david-gutierrez-g/" target="_blank" rel="noopener noreferrer">
  LinkedIn
  </a></p>
 <p> Email : dgutierrez97576@gmail.com </p>
