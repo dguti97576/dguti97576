@@ -1,7 +1,7 @@
 
 <h2> About Me </h2>
 👋 Hi, I’m David Gutierrez 
- <p>A recent undergrad graduate from UC Riverside.  </p>
+ <p>A recent graduate from UC Riverside with a Computer Science degree.  </p>
 
 <h2> Languages </h2>
 <table>
