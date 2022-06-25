@@ -33,9 +33,9 @@ Dynamic Host Configuration Prorocol Server
 Mechanic Workshop Database
 </a></p>
 
-<!-- <p> <a href = "https://github.com/dguti97576/Complier_Design" >
+<p> <a href = "https://github.com/dguti97576/Complier_Design" >
 Complier Design
-</a></p> -->
+</a></p>
 
 <h2>Interests and Working Projects</h2>
 <p> <a href = "https://github.com/dguti97576/MLOps" >
