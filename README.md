@@ -1,6 +1,6 @@
 
 <h2> About Me </h2>
-👋 Hi, I’m David Gutierrez 
+👋 Hi, I am David Gutierrez 
  <p>A recent graduate from UC Riverside with a Computer Science degree.  </p>
 
 <h2> Languages </h2>
