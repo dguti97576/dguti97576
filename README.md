@@ -26,7 +26,7 @@
 
  
 <p> <a href = "https://github.com/dguti97576/DHCP/" >
-Dynamic Host Configuration Prorocol Server
+Dynamic Host Configuration Protocol Server
 </a></p>
 
 <p> <a href = "https://github.com/dguti97576/Mechanic-Workshop-Database" >
