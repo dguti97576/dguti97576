@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=dguti97576&color=green)
 
 <h2> About Me </h2>
 👋 Hi, I am David Gutierrez 
@@ -47,6 +48,8 @@ Machine Learning Operations
  LinkedIn
  </a></p>
 <p> Email : dgutierrez97576@gmail.com </p>
+
+
 
 <!---
 dguti97576/dguti97576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
