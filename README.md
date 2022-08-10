@@ -26,9 +26,9 @@
 <h2> Projects </h2>
 
  
-<!-- <p> <a href = "https://github.com/dguti97576/DHCP/" >
+<p> <a href = "https://github.com/dguti97576/DHCP/" >
 Dynamic Host Configuration Protocol Server
-</a></p> -->
+</a></p>
 
 <p> <a href = "https://github.com/dguti97576/Mechanic-Workshop-Database" >
 Mechanic Workshop Database
