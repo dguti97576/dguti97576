@@ -43,9 +43,11 @@ Complier Design
 OpenGl Graphics
 </a></p>
 
+<!---
 <p> <a href = "https://github.com/dguti97576/MLOps" >
 Machine Learning Operations
 </a></p>
+--->
 
 <h2> Contact </h2>
 <p><a href = "https://www.linkedin.com/in/david-gutierrez-g/">
