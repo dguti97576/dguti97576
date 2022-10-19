@@ -19,6 +19,9 @@
   <td> 
     <img height=65px src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   </td>
+  <td>
+     <img height=65px src = "https://iconscout.com/icon/java-23">
+  </td>
 
 </tbody>
 </table>
