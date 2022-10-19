@@ -20,7 +20,7 @@
     <img height=65px src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
   </td>
   <td>
-     <img height=65px src = "https://iconscout.com/icon/java-23">
+     <img height=65px src = "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
   </td>
 
 </tbody>
